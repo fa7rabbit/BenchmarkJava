@@ -1230,7 +1230,7 @@
         <version.exec.maven>1.6.0</version.exec.maven>
         <version.fluido>2.0.0-M6</version.fluido>
         <!-- hibernate is up to rev 6+. But 4.0.0. causes this error: symbol: org.hibernate.classic.Session not found -->
-        <version.hibernate>3.6.10.Final</version.hibernate>
+        <version.hibernate>5.3.20.Final</version.hibernate>
         <version.spotbugs.maven>4.7.3.4</version.spotbugs.maven>
         <version.spotbugs>4.7.3</version.spotbugs>
         <!-- Spring 6.x requires Java 17 -->
